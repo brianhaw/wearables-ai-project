@@ -1,0 +1,10 @@
+name: wearables-ai
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - pip
+  - pip:
+      - shap
